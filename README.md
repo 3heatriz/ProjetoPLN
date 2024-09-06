@@ -11,9 +11,6 @@ O **PROJETO PRÁTICO** deve ser feito utilizando o **Google Colab** com uma cont
 ---
 **POR FAVOR, PREENCHER OS INTEGRANDES DA SUA EQUIPE:**
 
-- **
-- **
-- **
 **Integrante 01:**
 
 `André Ribeiro Thasmo - 11202130043`
